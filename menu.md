@@ -1,10 +1,10 @@
 ## Menu
 
-[Mexican Food](#mexcican-food) | [Indian Food](#indian-food) | [Japanese Food](#japanese-food) | [Thai Food](#thai-food) | [Korean Food](#korean-food) | ...
+[Mexican Food](#mexican-food) | [Indian Food](#indian-food) | [Japanese Food](#japanese-food) | [Thai Food](#thai-food) | [Korean Food](#korean-food)
 
 ---
 
-## Thai-Food
+## Thai Food
 
 | **Thai Dish**      | **Description**                               | **Image**                                           | **Price (THB)** |
 |:----------------------|-----------------------------------------------|:---------------------------------------------------:|-----------------------:|
@@ -49,7 +49,7 @@
 | Japchae       |   <img src="images/korean-food/japchae.jpg" width="150" height="150">    | 130.00 |
 | Tteokbokki    |  <img src="images/korean-food/tteokbokki.jpg" width="150" height="150">  | 100.00 |
 
-## Japanese Menu
+## Japanese Food
 
 | Description      |                                                                               | Price (THB) |
 |:-----------------|-------------------------------------------------------------------------------|------------:|
