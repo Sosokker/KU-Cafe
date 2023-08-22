@@ -4,4 +4,4 @@ Write a one or two sentence description of your cafe.
 [Menu](menu.md)
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-| Indian food                               |Chaiyawut Thengket                    |
+| Indain food                               |Chaiyawut Thengket                    |
