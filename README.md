@@ -2,8 +2,8 @@
 
 Write a one or two sentence description of your cafe.
 
-## [Menu](menu.md)
+## [Fast Food](menu.md)
 
-| Cuisine                               | Contributor        |
-|:--------------------------------------|--------------------|
-|                                       |                    |
+| Cuisine   | Contributor |
+|:----------|-------------|
+| Fast Food | Sukprachoke |
