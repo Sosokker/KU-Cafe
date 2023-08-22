@@ -1,6 +1,18 @@
 ## Menu
+
 [Mexican Food](#mexcican-food) | [Indian Food](#indian-food) | [Japanese Food](#japanese-food) | [Thai Food](#thai-food) | [Korean Food](#korean-food) | ...
+
 ---
+
+## Thai-Food
+
+| **Thai Dish**      | **Description**                               | **Image**                                           | **Price (THB)** |
+|:----------------------|-----------------------------------------------|:---------------------------------------------------:|-----------------------:|
+| Green Curry       | Creamy curry with chicken, Thai eggplant, and basil      | <img src="images/thai-food/green-curry.jpg" alt="Green Curry" width="150" height="150"/>       | 320.00                   |
+| Som Tum  | Spicy papaya salad with chili, lime, and peanuts | <img src="images/thai-food/papaya-salad.jpg" alt="Som Tum" width="150" height="150"/> | 180.00                   |
+| Spicy Seafood Tom Yum | A classic Thai soup with a mix of seafood and spices | <img src="images/thai-food/tom-yum-kung.jpg" alt="Spicy Seafood Tom Yum" width="150" height="150"/> | 250.00                   |
+| Seafood Pad Thai      | Stir-fried noodles with assorted seafood     | <img src="images/thai-food/pad_thai.jpg" alt="Seafood Pad Thai" width="150" height="150"/>             | 220.00                   |
+| Khao Pad       | Thai-style fried rice with choice of meat| <img src="images/thai-food/fried-rice.jpg" alt="Khao Pad" width="150" height="150"/>                 | 150.00                   |
 
 ## Mexican Food
 
@@ -26,7 +38,6 @@
 | Masala Dosa          | Crispy crepe with spiced potato filling       | <img src="images/indian-food/masala_dosa.jpg" width="150" height="150">             | 180                   |
 | Paneer Tikka         | Grilled paneer cubes marinated in spices      | <img src="images/indian-food/paneer_tikka.jpg" width="150" height="150">)          | 280                   |
 | Mango Lassi          | Refreshing yogurt drink with ripe mango       | <img src="images/indian-food/mango_lassi.jpg" width="150" height="150">            | 90                    |
-
 
 ## Korean Food
 
