@@ -7,7 +7,8 @@ KU Cafe is the best cafe in KU.
 [Menu](menu.md)
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-| [Thai Food](menu.md#thai-food)                               |Pattadon Loyprasert                    |
-|[Mexican](menu.md#mexican-food)|Sirin Puenggun|
-| Indain food|Chaiyawut Thengket                    |
-| [Korean](menu.md#korean-food) | Wissarut kanasub |
+| [Thai Food](menu.md#thaifood-menu)    |Pattadon Loyprasert |
+| [Mexican](menu.md#mexican-menu)       |Sirin Puenggun      |
+| [Indain food](menu.md#indianfood-menu)|Chaiyawut Thengket  |
+| [Korean](menu.md#korean-menu)         |Wissarut Kanasub    |
+| [Japanese Food](menu.md#japanese-menu)|Sukprachoke Leelapisuth|
