@@ -1,12 +1,12 @@
 ## Menu
 
-[Beverage](#Beverage) | ...
+[Korean Food](#korean-food) | ...
 
-## Beverage
-| Description   |                                   Image                                    |   Price |
-|:--------------|:--------------------------------------------------------------------------:|--------:|
-| Espresso      |   <img src="images/beverage-food/espresso.jpg" width="150" height="150">   | 50 Baht |
-| Cappuccino    |  <img src="images/beverage-food/cappuccino.jpg" width="150" height="150">  | 60 Baht |
-| Hot Chocolate | <img src="images/beverage-food/HotChocolate.jpg" width="150" height="150"> | 50 Baht |
-| Lemonade      |   <img src="images/beverage-food/Lemonade.jpg" width="150" height="150">   | 35 Baht |
-| Iced Tea      |   <img src="images/beverage-food/IcedTea.jpg" width="150" height="150">    | 45 Baht |
+## Korean Food
+| Description   |                                  Image                                   |    Price |
+|:--------------|:------------------------------------------------------------------------:|---------:|
+| Bibimbap      |   <img src="images/korean-food/bibimbap.jpg" width="150" height="150">   | 150 Baht |
+| Kimchi Jjigae | <img src="images/korean-food/kimchiJjigae.jpg" width="150" height="150"> | 120 Baht |
+| Bulgogi       |   <img src="images/korean-food/bulgogi.jpg" width="150" height="150">    | 180 Baht |
+| Japchae       |   <img src="images/korean-food/japchae.jpg" width="150" height="150">    | 130 Baht |
+| Tteokbokki    |  <img src="images/korean-food/tteokbokki.jpg" width="150" height="150">  | 100 Baht |
