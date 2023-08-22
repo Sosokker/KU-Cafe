@@ -12,3 +12,14 @@
 | Masala Dosa          | Crispy crepe with spiced potato filling       | <img src="images/indian-food/masala_dosa.jpg" width="150" height="150">             | 180                   |
 | Paneer Tikka         | Grilled paneer cubes marinated in spices      | <img src="images/indian-food/paneer_tikka.jpg" width="150" height="150">)          | 280                   |
 | Mango Lassi          | Refreshing yogurt drink with ripe mango       | <img src="images/indian-food/mango_lassi.jpg" width="150" height="150">            | 90                    |
+
+[Korean Food](#korean-food) | ...
+
+## Korean Food
+| Description   |                                  Image                                   |    Price |
+|:--------------|:------------------------------------------------------------------------:|---------:|
+| Bibimbap      |   <img src="images/korean-food/bibimbap.jpg" width="150" height="150">   | 150 Baht |
+| Kimchi Jjigae | <img src="images/korean-food/kimchiJjigae.jpg" width="150" height="150"> | 120 Baht |
+| Bulgogi       |   <img src="images/korean-food/bulgogi.jpg" width="150" height="150">    | 180 Baht |
+| Japchae       |   <img src="images/korean-food/japchae.jpg" width="150" height="150">    | 130 Baht |
+| Tteokbokki    |  <img src="images/korean-food/tteokbokki.jpg" width="150" height="150">  | 100 Baht |
