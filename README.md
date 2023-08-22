@@ -1,9 +1,14 @@
-# Name of Your Cafe
+# KU Cafe
 
-Write a one or two sentence description of your cafe.
+---
 
-## [Japanese Food](menu.md)
+KU Cafe is the best cafe in KU.
 
-| Cuisine                                | Contributor             |
-|:---------------------------------------|-------------------------|
-| [Japanese Food](menu.md#japanese-menu) | Sukprachoke Leelapisuth |
+[Menu](menu.md)
+| Cuisine                               | Contributor        |
+|:--------------------------------------|--------------------|
+| [Thai Food](menu.md#thaifood-menu)    |Pattadon Loyprasert |
+| [Mexican](menu.md#mexican-menu)       |Sirin Puenggun      |
+| [Indain food](menu.md#indianfood-menu)|Chaiyawut Thengket  |
+| [Korean](menu.md#korean-menu)         |Wissarut Kanasub    |
+| [Japanese Food](menu.md#japanese-menu)|Sukprachoke Leelapisuth|
