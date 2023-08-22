@@ -5,10 +5,10 @@
 ## Fast Food Menu
 
 # Menu
-| Description     |                                                                                               | Price |
-|:----------------|-----------------------------------------------------------------------------------------------|------:|
-| Cheeseburger    | <img src="images/fastfood/cheeseburger.jpg" alt="Cheeseburger" width="150" height="150">      |   ฿99 |
-| Chicken Nuggets | <img src="images/fastfood/chickennuggets.jpg" alt="Chicken Nuggets" width="150" height="150"> |   ฿59 |
-| French Fries    | <img src="images/fastfood/frenchfries.jpg" alt="French Fries" width="150" height="150">       |   ฿49 |
-| Onion Rings     | <img src="images/fastfood/onionrings.jpg" alt="Onion Rings " width="150" height="150">        |   ฿49 |
-| Fish Fingers    | <img src="images/fastfood/fishfingers.jpg" alt="Fish Fingers" width="150" height="150">       |   ฿59 |
+| Description      |                                                                               | Price |
+|:-----------------|-------------------------------------------------------------------------------|------:|
+| Sushi Platter    | <img src="images/japanese-food/sushiplatter.jpg" width="150" height="150">    |  ฿139 |
+| Ramen            | <img src="images/japanese-food/ramen.jpg" width="150" height="150">           |   ฿99 |
+| Tempura Set      | <img src="images/japanese-food/tempuraset.jpg" width="150" height="150">      |  ฿149 |
+| Chicken Teriyaki | <img src="images/japanese-food/chickenteriyaki.jpg" width="150" height="150"> |   ฿79 |
+| Udon             | <img src="images/japanese-food/udon.jpg" width="150" height="150">            |   ฿99 |
