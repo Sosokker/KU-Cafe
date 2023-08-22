@@ -1,4 +1,4 @@
-# Name of Your Cafe
+# KU Cafe
 
 KU Cafe is the best cafe in KU.
 
