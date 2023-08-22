@@ -1,9 +1,7 @@
-# Name of Your Cafe
-
+Name of Your Cafe
 Write a one or two sentence description of your cafe.
 
-## [Menu](menu.md)
-
+[Menu](menu.md)
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-|                                       |                    |
+| Indain food                               |Chaiyawut Thengket                    |
