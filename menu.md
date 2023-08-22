@@ -1,8 +1,8 @@
 
 ## Menu
-[Seafood](#seafood) | [Japanese Food](#japanese-food) | [Italian](#italian) | ...
+[Seafood](#seafood) | [Japanese Food](#japanese-food) | [Indian Food](#Indian-food) |
 
-## Seafood
+# Thai-Food
 
 | **Seafood Dish**      | **Description**                               | **Image**                                           | **Price (Thai Baht)** |
 |:----------------------|-----------------------------------------------|:---------------------------------------------------:|-----------------------:|
@@ -15,3 +15,4 @@
 | Grilled Fish Platter  | Assorted grilled fish served with dipping sauces | ![Grilled Fish Platter](images/seafood/fish_platter.jpg)  | 420                   |
 | Seafood Curry         | Rich and aromatic curry with a medley of seafood | ![Seafood Curry](images/seafood/seafood_curry.jpg)        | 320                   |
 
+# Indian-Food
